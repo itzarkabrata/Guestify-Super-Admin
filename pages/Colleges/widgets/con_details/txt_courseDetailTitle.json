@@ -12,6 +12,9 @@
     },
     {
       "key": "borderRadius"
+    },
+    {
+      "key": "text"
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
@@ -48,7 +51,7 @@
     "label"
   ],
   "shouldTruncate": false,
-  "text": "Demo Test",
+  "text": "Total Records: {{Total_record_colleges1.data.n}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 1,
