@@ -1,25 +1,23 @@
 {
-  "gitSyncId": "6461caf0d209002373fbd8c0_6461caf0d209002373fbd8c2",
+  "gitSyncId": "6461caf0d209002373fbd8c0_6464dac92c06a41774105f55",
   "unpublishedPage": {
-    "customSlug": "",
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 1292,
+          "bottomRow": 600,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
-          "dynamicTriggerPathList": [],
           "leftColumn": 0,
-          "minHeight": 1292,
+          "minHeight": 900,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 124,
+          "snapRows": 88,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 94,
@@ -28,7 +26,7 @@
         }
       }
     ],
-    "name": "Colleges",
-    "slug": "colleges"
+    "name": "Users",
+    "slug": "users"
   }
 }
